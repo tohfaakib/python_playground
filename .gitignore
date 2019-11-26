@@ -261,3 +261,5 @@ config/
 
 # End of https://www.gitignore.io/api/python,django,pycharm
 .idea/workspace.xml___jb_tmp___
+env/
+dsenv/
