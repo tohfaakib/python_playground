@@ -6,3 +6,4 @@ else:
     print('This would only run if no exception occurs.')
 finally:
     print('This would be printed in every case.')
+
