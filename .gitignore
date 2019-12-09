@@ -263,3 +263,4 @@ config/
 .idea/workspace.xml___jb_tmp___
 env/
 dsenv/
+venv/
