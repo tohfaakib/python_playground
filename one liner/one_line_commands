@@ -1,0 +1,10 @@
+Print json quickly from a file:
+Command: cat file.json | python -m json.tool
+
+Profiling a script:
+Command: python -m cProfile my_script.py
+Note: cProfile is a faster implementation of profile as it is written in c
+
+CSV to JSON:
+Command: python -c "import csv,json;print json.dumps(list(csv.reader(open('csv_file.csv'))))"
+
