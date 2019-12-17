@@ -16,4 +16,7 @@ search.send("You like tantin?")
 search.send("I don't know!")
 search.send("You like coroutine?")
 
+search.close()
+
+
 
