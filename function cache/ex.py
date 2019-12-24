@@ -9,4 +9,4 @@ def fib(n):
 
 
 # fib.cache_clear()
-print([fib(n) for n in range(10)])
+print([fib(n) for n in range(20)])
